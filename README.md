@@ -6,7 +6,7 @@ The dataset can be found at [CICIDS17](https://www.unb.ca/cic/datasets/ids-2017.
 
 ## Authors
 
-The code is developed and maintained by Nunziato Cassavia, Massimo Guarascio, and Francesco Folino (nunziato.cassavia@icar.cnr.it, massimo.guarascio@icar.cnr.it , francesco.folino@icar.cnr.it)
+The code is developed and maintained by Nunziato Cassavia, Massimo Guarascio and Francesco Folino (nunziato.cassavia@icar.cnr.it, massimo.guarascio@icar.cnr.it , francesco.folino@icar.cnr.it)
 
 
 ### Input details
