@@ -9,7 +9,13 @@ The dataset can be found at [CICIDS17](https://www.unb.ca/cic/datasets/ids-2017.
 The code is developed and maintained by Nunziato Cassavia, Massimo Guarascio and Francesco Folino (nunziato.cassavia@icar.cnr.it, massimo.guarascio@icar.cnr.it , francesco.folino@icar.cnr.it)
 
 ## Environment details
-complete me - @Nunzio
+This project requires some libraries to be executed:
+
+- keras==2.7.0
+- pandas==1.3.5
+- scikit-learn==1.0.2
+- tensorflow==2.7.0
+- numpy==1.21.5
 
 ## Input details
 The prototype requires two input variables in order to be executed i.e. the paths relative to the training and test set (csv format). The former one can be set by changing the value of the variable "training" (cell number 6 at row 2). The last one correspond to the variable "testset" (cell number 23 at row 3).
